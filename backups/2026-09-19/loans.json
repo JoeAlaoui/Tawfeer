@@ -1,0 +1,20 @@
+{
+  "loans": [
+    {
+      "id": "l_68a1ad6cbc",
+      "type": "borrowed",
+      "person": "Nissrin",
+      "principal": 9000.0,
+      "date": "2026-09-13",
+      "note": "",
+      "repayments": [
+        {
+          "id": "r_707efbf109",
+          "date": "2026-09-14",
+          "amount": 3000.0,
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

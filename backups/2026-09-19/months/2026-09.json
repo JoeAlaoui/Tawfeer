@@ -1,0 +1,53 @@
+{
+  "month": "2026-09",
+  "transactions": [
+    {
+      "id": "t_0bdc40c188",
+      "categoryId": "c1",
+      "date": "2026-09-14",
+      "amount": 400.0,
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "t_50ee8e4213",
+      "categoryId": "c_7290375dec",
+      "date": "2026-09-14",
+      "amount": 200.0,
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "t_d6b1b6e599",
+      "categoryId": "c1",
+      "date": "2026-09-14",
+      "amount": 200.0,
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "t_0b458c4096",
+      "categoryId": "c_7290375dec",
+      "date": "2026-09-14",
+      "amount": 200.0,
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "t_3e4e4a8f4a",
+      "categoryId": "c2",
+      "date": "2026-09-14",
+      "amount": 200.0,
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "t_ad983cc250",
+      "categoryId": "c_4444934309",
+      "date": "2026-09-14",
+      "amount": 200.0,
+      "note": "",
+      "tags": []
+    }
+  ]
+}
