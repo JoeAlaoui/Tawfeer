@@ -1,0 +1,10 @@
+{
+  "currency": "MAD",
+  "backupsToKeep": 10,
+  "dateFormat": "YYYY-MM-DD",
+  "theme": "light",
+  "density": "comfortable",
+  "pinEnabled": false,
+  "pinHash": null,
+  "autoLockMinutes": 15
+}

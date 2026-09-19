@@ -1,0 +1,13 @@
+{
+  "month": "2026-07",
+  "transactions": [
+    {
+      "id": "t_c665f84198",
+      "categoryId": "c_9390799313",
+      "date": "2026-07-02",
+      "amount": 1450.0,
+      "note": "",
+      "tags": []
+    }
+  ]
+}
